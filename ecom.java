@@ -5,6 +5,7 @@ public class Login {
 	public void main() {
 		System.out.println("hello word");
 		
+		System.out.println("hello word");
 		
 //		fdsg
 		
